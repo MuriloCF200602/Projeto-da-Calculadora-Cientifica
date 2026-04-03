@@ -1,2 +1,3 @@
-# Projeto-da-Calculadora-Cient-fica
-Calculadora Científica
+# Projeto-da-Calculadora
+
+Calculadora Científica com todas as funcionalidades operantes.
